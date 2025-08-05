@@ -21,7 +21,7 @@ Supports infinite scroll, personal collection with drag-and-drop, and persistent
 
 ## 🚀 Live Demo
 
-🔗 [View on Netlify](https://your-netlify-url.netlify.app)
+🔗 [View on Vercel](https://pokemon-tau-wine.vercel.app/)
 
 ---
 
